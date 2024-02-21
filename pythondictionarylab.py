@@ -92,7 +92,7 @@ textbook6_dict = {
     "title" : "python in motion",
 	"author" : "Kelsey Andretti",
 	"year" : 2013,
-  "pages" :"188"
+  "pages" :"1882"
     
 }
 
