@@ -34,7 +34,7 @@ textbook_dict = {
 	"author": "Daisy Chan",
 	"year": 2019,
 	"awards":["star"],
-	"awards":["topstar"]
+	"awards":["top star"]
     
   },
   "textbook5" : {
